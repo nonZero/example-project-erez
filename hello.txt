@@ -1,2 +1,4 @@
 Hello World!
 have a nice day
+good evening
+good night
